@@ -8,6 +8,9 @@ public class MainClass {
 		
 		SalesClass salesClass = new SalesClass();
 		salesClass.show();
+		
+		MoneyClass moneyClass = new MoneyClass();
+		moneyClass.display();
 
 	}
 	
