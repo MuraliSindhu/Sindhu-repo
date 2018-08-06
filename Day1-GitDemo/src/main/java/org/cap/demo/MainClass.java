@@ -21,6 +21,7 @@ public class MainClass {
 		System.out.println("Hello");
 		for(int i = 0; i< 15; i++) {
 			System.out.println(i);
+			System.out.println(2*i);
 		}
 	}
 
