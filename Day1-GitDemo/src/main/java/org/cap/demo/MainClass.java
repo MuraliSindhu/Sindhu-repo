@@ -11,6 +11,9 @@ public class MainClass {
 		
 		MoneyClass moneyClass = new MoneyClass();
 		moneyClass.display();
+		
+		PurchaseClass purchaseClass = new PurchaseClass();
+		purchaseClass.display();
 
 	}
 	
