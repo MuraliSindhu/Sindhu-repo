@@ -20,7 +20,7 @@ public class MainClass {
 	public static void greet() {
 		System.out.println("Hello");
 		for(int i = 0; i< 15; i++) {
-			System.out.println(i);
+			System.out.println(i+2);
 			System.out.println(2*i);
 		}
 	}
